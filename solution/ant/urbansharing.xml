@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    
+    <macrodef name="urbansharing-station-status">
+        <attribute name="json" description="Path of the JSON file"/>
+        <sequential>
+            <exec executable="curl">
+                <arg line="--insecure -H \&quot;Client-Identifier: IDENTIFIER\&quot; https://gbfs.urbansharing.com/oslobysykkel.no/station_status.json --output @{json}"/>
+            </exec>
+        </sequential>
+    </macrodef>
+  
+</project>

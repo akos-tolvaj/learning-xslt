@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="bikes-api" default="get-bikes">
+    
+    <import file="ant/urbansharing.xml"/>
+    <import file="ant/saxon.xml"/>
+    <import file="ant/json-to-xml.xml"/>
+    <!-- Here, add an import to another Apache Ant build script, where your store your macro. -->
+    
+    <target name="get-bikes">
+        <urbansharing-station-status json="bikes.json"/>
+        <json-to-xml json="bikes.json" xml="bikes.xml"/>
+        
+        <!-- Call a macro here to convert this XML to some HTML -->
+        <!-- Obviously you need a new XSL transformation, which conerts the XML to HTML. -->
+        
+    </target>
+  
+</project>

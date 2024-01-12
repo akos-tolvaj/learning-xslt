@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    
+    <macrodef name="json-to-xml">
+        <attribute name="json" description="Path of the JSON file"/>
+        <attribute name="xml" description="Path of the XML file"/>
+        <sequential>
+            <xslt in="dummy/dummy.xml" out="@{xml}" style="xsl/json-to-xml.xsl">
+                <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+                <classpath refid="saxon"/>
+                <!-- Remember, parameter URI is relative to XSL stylesheet -->
+                <param name="json-file" expression="../@{json}"/>
+            </xslt>
+        </sequential>
+    </macrodef>
+    
+  
+</project>
