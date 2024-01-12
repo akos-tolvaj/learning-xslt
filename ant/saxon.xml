@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <path id="saxon">
+        <fileset dir="lib/">
+            <include name="saxon-he-12.4.jar"/>
+            <include name="xmlresolver-5.2.2.jar"/>
+        </fileset>
+    </path>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="bikes-api" default="get-bikes">
+    
+    <import file="ant/urbansharing.xml"/>
+    <import file="ant/utilities.xml"/>
+    <import file="ant/saxon.xml"/>
+    <import file="ant/json-to-xml.xml"/>
+    
+    <target name="get-bikes" depends="clean-up">
+        <urbansharing-station-status json="json/urbansharing-stations.json"/>
+        <json-to-xml json="json/urbansharing-stations.json" xml="xml/urbansharing-stations.xml"/>
+    </target>
+  
+</project>

@@ -1,0 +1,3914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns="http://www.w3.org/2005/xpath-functions">
+   <number key="last_updated">1701963795</number>
+   <number key="ttl">15</number>
+   <string key="version">2.3</string>
+   <map key="data">
+      <array key="stations">
+         <map>
+            <string key="station_id">4552</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">3725</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">19</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2358</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">5</number>
+            <number key="num_bikes_available">5</number>
+            <number key="num_docks_available">9</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">5</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2357</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">3</number>
+            <number key="num_bikes_available">3</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">3</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2350</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">25</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2349</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2347</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">29</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2340</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">25</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2339</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">28</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2337</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">14</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2334</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2333</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">14</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2332</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2330</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">14</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2329</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2328</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">20</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2315</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">8</number>
+            <number key="num_bikes_available">8</number>
+            <number key="num_docks_available">8</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">8</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2309</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2308</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">11</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2307</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2306</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">17</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2305</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">13</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2304</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">4</number>
+            <number key="num_bikes_available">4</number>
+            <number key="num_docks_available">13</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">4</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2280</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">13</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">2270</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">20</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">1919</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">5</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">1755</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">11</number>
+            <number key="num_bikes_available">11</number>
+            <number key="num_docks_available">22</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">11</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">1101</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">8</number>
+            <number key="num_bikes_available">8</number>
+            <number key="num_docks_available">16</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">8</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">1023</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">1009</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">10</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">970</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">25</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">787</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">627</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">29</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">623</string>
+            <boolean key="is_installed">false</boolean>
+            <boolean key="is_renting">false</boolean>
+            <boolean key="is_returning">false</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">624</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">20</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">614</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">24</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">616</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">4</number>
+            <number key="num_bikes_available">4</number>
+            <number key="num_docks_available">11</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">4</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">618</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">42</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">622</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">613</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">26</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">617</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">609</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">27</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">607</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">29</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">603</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">590</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">40</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">610</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">20</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">608</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">530</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">10</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">463</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">20</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">475</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">23</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">600</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">3</number>
+            <number key="num_bikes_available">3</number>
+            <number key="num_docks_available">9</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">3</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">440</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">491</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">493</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">29</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">410</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">26</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">605</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">388</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">591</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">24</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">592</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">565</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">571</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">13</number>
+            <number key="num_bikes_available">13</number>
+            <number key="num_docks_available">8</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">13</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">568</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">588</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">584</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">35</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">569</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">577</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">564</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">3</number>
+            <number key="num_bikes_available">3</number>
+            <number key="num_docks_available">27</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">3</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">570</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">586</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">27</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">576</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">6</number>
+            <number key="num_bikes_available">6</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">6</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">566</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">5</number>
+            <number key="num_bikes_available">5</number>
+            <number key="num_docks_available">19</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">5</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">602</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">17</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">575</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">567</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">39</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">582</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">542</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">20</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">563</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">552</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">16</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">555</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">573</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">22</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">561</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">24</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">615</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">19</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">543</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">19</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">554</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">574</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">4</number>
+            <number key="num_bikes_available">4</number>
+            <number key="num_docks_available">8</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">4</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">560</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">9</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">548</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">559</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">13</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">545</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">4</number>
+            <number key="num_bikes_available">4</number>
+            <number key="num_docks_available">35</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">4</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">550</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">9</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">541</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">10</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">527</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">11</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">529</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">549</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">526</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">14</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">537</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">20</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">547</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">29</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">528</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">533</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">535</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">27</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">524</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">519</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">24</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">534</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">37</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">521</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">14</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">556</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">525</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">14</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">517</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">523</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">522</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">10</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">532</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">509</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">10</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">508</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">511</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">24</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">505</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">24</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">501</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">16</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">514</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">11</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">500</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">503</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">33</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">513</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">498</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">507</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">512</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">4</number>
+            <number key="num_bikes_available">4</number>
+            <number key="num_docks_available">26</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">4</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">619</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">41</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">474</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">42</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">580</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">45</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">496</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">45</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">482</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">407</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">409</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">25</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">451</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">402</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">516</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">429</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">380</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">23</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">583</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">17</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">381</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">13</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">464</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">3</number>
+            <number key="num_bikes_available">3</number>
+            <number key="num_docks_available">29</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">3</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">442</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">3</number>
+            <number key="num_bikes_available">3</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">3</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">483</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">458</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">499</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">20</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">472</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">24</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">506</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">26</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">465</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">611</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">7</number>
+            <number key="num_bikes_available">7</number>
+            <number key="num_docks_available">31</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">7</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">404</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">27</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">579</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">589</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">27</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">434</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">20</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">462</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">578</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">24</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">415</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">423</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">19</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">412</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">8</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">387</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">3</number>
+            <number key="num_bikes_available">3</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">3</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">405</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">17</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">441</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">443</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">11</number>
+            <number key="num_bikes_available">11</number>
+            <number key="num_docks_available">34</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">11</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">454</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">24</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">436</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">394</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">497</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">27</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">461</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">19</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">599</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">46</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">428</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">24</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">400</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">25</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">487</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">438</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">42</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">459</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">433</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">399</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">36</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">489</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">29</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">742</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">551</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">33</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">406</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">488</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">4</number>
+            <number key="num_bikes_available">4</number>
+            <number key="num_docks_available">19</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">4</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">540</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">36</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">431</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">20</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">393</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">4</number>
+            <number key="num_bikes_available">4</number>
+            <number key="num_docks_available">17</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">4</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">420</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">397</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">41</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">390</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">3</number>
+            <number key="num_bikes_available">3</number>
+            <number key="num_docks_available">27</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">3</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">449</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">23</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">484</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">33</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">479</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">403</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">14</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">426</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">450</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">14</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">456</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">33</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">468</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">14</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">453</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">36</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">466</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">469</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">416</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">14</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">389</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">470</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">384</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">425</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">8</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">411</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">11</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">598</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">32</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">444</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">3</number>
+            <number key="num_bikes_available">3</number>
+            <number key="num_docks_available">17</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">3</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">447</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">5</number>
+            <number key="num_bikes_available">5</number>
+            <number key="num_docks_available">25</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">5</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">408</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">737</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">22</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">432</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">401</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">5</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">452</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">392</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">4</number>
+            <number key="num_bikes_available">4</number>
+            <number key="num_docks_available">46</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">4</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">481</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">4</number>
+            <number key="num_bikes_available">4</number>
+            <number key="num_docks_available">38</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">4</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">495</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">41</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">478</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">14</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">448</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">6</number>
+            <number key="num_bikes_available">6</number>
+            <number key="num_docks_available">3</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">6</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">414</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">4</number>
+            <number key="num_bikes_available">4</number>
+            <number key="num_docks_available">7</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">4</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">476</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">19</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">445</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">3</number>
+            <number key="num_bikes_available">3</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">3</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">748</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">473</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">9</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">383</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">30</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">480</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">3</number>
+            <number key="num_bikes_available">3</number>
+            <number key="num_docks_available">22</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">3</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">421</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">22</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">746</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">11</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">378</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">417</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">427</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">13</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">395</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">418</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">413</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">18</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">486</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">24</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">471</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">597</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">15</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">422</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">382</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">9</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">396</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">23</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">735</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">3</number>
+            <number key="num_bikes_available">3</number>
+            <number key="num_docks_available">12</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">3</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">437</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">3</number>
+            <number key="num_bikes_available">3</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">3</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">446</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">23</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">424</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">10</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">455</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">10</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">457</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">1</number>
+            <number key="num_bikes_available">1</number>
+            <number key="num_docks_available">9</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">1</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">377</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">29</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">738</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">2</number>
+            <number key="num_bikes_available">2</number>
+            <number key="num_docks_available">10</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">2</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">460</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">27</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">744</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">10</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+         <map>
+            <string key="station_id">485</string>
+            <boolean key="is_installed">true</boolean>
+            <boolean key="is_renting">true</boolean>
+            <boolean key="is_returning">true</boolean>
+            <number key="last_reported">1701963806</number>
+            <number key="num_vehicles_available">0</number>
+            <number key="num_bikes_available">0</number>
+            <number key="num_docks_available">21</number>
+            <array key="vehicle_types_available">
+               <map>
+                  <string key="vehicle_type_id">bike</string>
+                  <number key="count">0</number>
+               </map>
+            </array>
+         </map>
+      </array>
+   </map>
+</map>
